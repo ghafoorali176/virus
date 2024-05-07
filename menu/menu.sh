@@ -253,8 +253,6 @@ export sem=$( curl -s https://raw.githubusercontent.com/ghafoorali176/virus/main
 export pak=$( cat /home/.ver)
 IPVPS=$(curl -s ipinfo.io/ip )
 clear
-figlet 'VPN - STORE'
-figlet 'Ghafoor Ali'
 echo -e "${BIPurple} ┌─────────────────────────────────────────────────────┐${NC}"
 echo -e "${BIPurple} │                  ${BIWhite}${UWhite}Ghafoor Ali VPN-STORE${NC}"
 echo -e "${BIPurple} │"
